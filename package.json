@@ -1,0 +1,29 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "This is a Hangman Game for node where you will be guessing words. You will have only 10 tries, and every time you answer incorect you loos 1 try. ",
+  "main": "hangMan.js",
+  "dependencies": {
+    "inquirer": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homyakny1/Hang-Man-Node.git"
+  },
+  "keywords": [
+    "hangman",
+    "node",
+    "ucf",
+    "bootcamp"
+  ],
+  "author": "Eugene Khom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/homyakny1/Hang-Man-Node/issues"
+  },
+  "homepage": "https://github.com/homyakny1/Hang-Man-Node#readme"
+}
